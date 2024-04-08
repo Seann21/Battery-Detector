@@ -14,7 +14,8 @@
 }
 
 body{
-    background: #787c7b;
+    background-image:url('https://i.pinimg.com/736x/94/8e/fc/948efc65087a553bf42cc0342e885689.jpg');
+    background-size:cover;
     color: #ffffff;
 }
 
